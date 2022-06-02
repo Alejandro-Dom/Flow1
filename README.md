@@ -14,3 +14,5 @@ Este es el primer commit con Source control
     -Mover el archivo JSON de la carpeta de descargas a la carpeta del repositorio antes clonado
     -Abrir el directorio con Visual Code
     -Descargar el plugin de GitHUb en VSC
+
+Este es el primer commit usando el plug-in de GitHub
